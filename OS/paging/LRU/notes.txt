@@ -1,0 +1,10 @@
+# HELLO BABY TIME FOR DIFFICULT ONE EH ??
+
+
+--------------------------------- LETS START ----------------------------------------------
+What do i need in life ?
+1. Take reference string for sure
+2. Now take the frames
+3. Set the counter for the least recently used
+
+
